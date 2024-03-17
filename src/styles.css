@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import "primeicons/primeicons.css";
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-image: url("https://wallpapercave.com/wp/wp2411645.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
